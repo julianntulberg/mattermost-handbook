@@ -15,7 +15,7 @@ The Mattermost logomark is called **"the instrument"**. It represents four tools
 
 ### Logo variations
 
-The Mattermost logo is available is vertical, horizontal, and logomark-only versions. The logo can be represented in black, blue, or white as displayed below.
+The Mattermost logo is available is vertical, horizontal, and logomark-only versions. The logo can be represented in black, denim, or white as displayed below.
 
 **Horizontal Logo:** Min size 100x16px
 
@@ -60,28 +60,28 @@ If you need vector versions of the logos, you can [download the EPS package](htt
 
 #### SVG Files
 
-* **Horizontal logo:** [Black](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/logoHorizontal.svg), [Blue](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/logoHorizontalBlue.svg), [White](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/logoHorizontalWhite.svg)
-* **Vertical logo:** [Black](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/logoVertical.svg), [Blue](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/logoVerticalBlue.svg), [White](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/logoVerticalWhite.svg)
-* **Logomark:** [Black](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/icon.svg), [Blue](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/iconBlue.svg), [White](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/iconWhite.svg)
+* **Horizontal logo:** [Black](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/logoHorizontal.svg), [Denim](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/logoHorizontalBlue.svg), [White](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/logoHorizontalWhite.svg)
+* **Vertical logo:** [Black](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/logoVertical.svg), [Denim](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/logoVerticalBlue.svg), [White](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/logoVerticalWhite.svg)
+* **Logomark:** [Black](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/icon.svg), [Denim](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/iconBlue.svg), [White](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/iconWhite.svg)
 
 #### PNG files
 
-* **Horizontal logo:** [Black](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/logoHorizontal.png), [Blue](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/logoHorizontalBlue.png), [White](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/logoHorizontalWhite.png)
-* **Vertical logo:** [Black](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/logoVertical.png), [Blue](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/logoVerticalBlue.png), [White](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/logoVerticalWhite.png)
-* **Logomark:** [Black](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/icon.png), [Blue](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/iconBlue.png), [White](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/iconWhite.png)
+* **Horizontal logo:** [Black](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/logoHorizontal.png), [Denim](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/logoHorizontalBlue.png), [White](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/logoHorizontalWhite.png)
+* **Vertical logo:** [Black](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/logoVertical.png), [Denim](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/logoVerticalBlue.png), [White](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/logoVerticalWhite.png)
+* **Logomark:** [Black](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/icon.png), [Denim](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/iconBlue.png), [White](https://github.com/mattermost/mattermost-handbook/tree/7150cebb78f87d7e1949e490de034d16b4e0069b/.gitbook/assets/branding/iconWhite.png)
 
 ## Color Guidelines
 
-Below is a sample of the core colours we've been using in the latest branding initiatives. For the full set of colors specific to the website visit the [Mattermost.com StyleGuide](https://mattermost.wayfx.com/0ddc9bpne/p/44c8eb-colors)
+Mattermost’s core palette consists of Denim, Marigold, and Black. The supporting colors should be used sparingly: do not use them in any way that might overpower the core palette.
 
 | Name | Swatch | Hex | RGB |
 | :--- | :--- | :--- | :--- |
-| **Primary Blue** | ![](../../../../../.gitbook/assets/swatch-blue.png) | Hex: 0058CC | rgb\(0, 88, 204\) |
-| **Indigo** | ![](../../../../../.gitbook/assets/swatch-indigo.png) | Hex: 22406D | rgb\(34, 64, 109\) |
-| **Dark Indigo** | ![](../../../../../.gitbook/assets/swatch-indigo-dark.png) | Hex: 152235 | rgb\(21, 34, 53\) |
-| **Light Blue** | ![](../../../../../.gitbook/assets/swatch-light-blue.png) | Hex: 80B3FA | rgb\(128, 179, 250\) |
-| **Coral** | ![](../../../../../.gitbook/assets/swatch-coral.png) | Hex: FD6165 | rgb\(253, 97, 101\) |
-| **Orange** | ![](../../../../../.gitbook/assets/swatch-orange.png) | Hex: F59138 | rgb\(245, 145, 56\) |
+| **Denim** | ![](../../../../../.gitbook/assets/swatch-blue.png) | Hex: 1E325C | rgb\(30, 50, 92\) |
+| **Marigold** | ![](../../../../../.gitbook/assets/swatch-indigo.png) | Hex: FFBC1F | rgb\(255, 188, 31\) |
+| **Black** | ![](../../../../../.gitbook/assets/swatch-indigo-dark.png) | Hex: 1B1D22 | rgb\(27, 29, 34\) |
+| **Cyan** | ![](../../../../../.gitbook/assets/swatch-light-blue.png) | Hex: 32A4EC | rgb\(50, 164, 236\) |
+| **Blue** | ![](../../../../../.gitbook/assets/swatch-coral.png) | Hex: 1C58D9 | rgb\(28, 88, 217\) |
+| **Purple** | ![](../../../../../.gitbook/assets/swatch-orange.png) | Hex: 6167BD | rgb\(97, 103, 189\) |
 | **Green** | ![](../../../../../.gitbook/assets/swatch-green.png) | Hex: 21C45D | rgb\(33, 196, 93\) |
 | **Red** | ![](../../../../../.gitbook/assets/swatch-red.png) | Hex: DC3F35 | rgb\(220, 63, 53\) |
 
